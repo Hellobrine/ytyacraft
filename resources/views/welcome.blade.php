@@ -7,7 +7,8 @@
         <title>Laravel</title>
 
     </head>
+
     <body>
-gay
+    <h1>u gay</h1>
     </body>
 </html>
